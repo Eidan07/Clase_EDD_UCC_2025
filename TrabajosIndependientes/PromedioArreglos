@@ -1,0 +1,18 @@
+public class PromedioArreglos {
+    public static void main(String[] args) {
+        
+        int suma = 0;
+
+        float promedio = 0;
+
+        int[] numeros = {2, 4, 6, 8, 10, 12,};
+    
+        for (int i : numeros){
+            suma += i;
+        }
+
+        promedio = suma / numeros.length;
+
+        System.out.println("El valor del promedio de los números del arreglo es:" + promedio);
+    }
+}
