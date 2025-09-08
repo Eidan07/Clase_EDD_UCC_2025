@@ -102,7 +102,7 @@ public class EjecutarCasillero {
     }
 
     public static void main(String[] args) {
-        EjecutarCasillero app = new EjecutarCasillero(3, 10);
+        EjecutarCasillero app = new EjecutarCasillero(5, 10);
         app.iniciar();
     }
 }
