@@ -27,6 +27,7 @@ public class ValidacionCadenasPila {
             p.pop();
         }
 
+                            //operador ternario
         System.out.println(contador1==contador2 ? "Equilibrados" : "No Equilibrado");
 
     }
