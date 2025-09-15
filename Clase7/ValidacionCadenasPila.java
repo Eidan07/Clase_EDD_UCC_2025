@@ -30,5 +30,12 @@ public class ValidacionCadenasPila {
                             //operador ternario
         System.out.println(contador1==contador2 ? "Equilibrados" : "No Equilibrado");
 
+        /* 
+         * Revisar e implementar los metodos que se heredan de la clase vector
+         * https://docs.oracle.com/javase/8/docs/api/java/util/Stack.html
+         * add, addAll, contains,........todos los demas metodos
+         * hacer un ejercicio donde se hagan las pruebas
+        */
+
     }
 }
